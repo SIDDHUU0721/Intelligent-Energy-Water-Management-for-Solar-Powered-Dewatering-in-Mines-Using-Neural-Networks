@@ -53,3 +53,12 @@ Input → LSTM Model → AC Power Prediction → Drilling Recommendation
 ##  visualisation
 
 <img width="1887" height="881" alt="Screenshot 2026-04-10 103503" src="https://github.com/user-attachments/assets/975fe3b4-ec26-442d-a142-c33a25d64f5f" />
+
+##Future Scope
+
+Integration with real-time IoT solar sensors
+Deployment as a cloud-based monitoring system
+Advanced optimization using reinforcement learning
+
+#Author
+Siddharth S
